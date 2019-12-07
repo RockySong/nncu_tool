@@ -29,14 +29,14 @@ https://pan.baidu.com/s/1eQADEHg8UVhTsZWT_lRRgw
 NN toolkit for MCU，a full set of tools to deploy deep learning models for NXP Cortex-M devices, highlights as below.
 
 - Work with the CMSIS-NN library (with our extensions and improvements)
-  Model quantization and conversion
-  Test vector utility
-  GUI interface
-  Examples and mini datasets
-  Quantization quality test utility
-  Interpreter (Inference engine) for converted model
-  MCU test project and updater utility
-  Detailed user manual documentation
+- Model quantization and conversion
+- Test vector utility
+- GUI interface
+- Examples and mini datasets
+- Quantization quality test utility
+- Interpreter (Inference engine) for converted model
+- MCU test project and updater utility
+- Detailed user manual documentation
 
 This repo contains the split parts, extract them all into the **SAME** folder (such as the current folder), even if they have the same folders (contents are not overlapped though):
 
