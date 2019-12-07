@@ -11,6 +11,8 @@ NN toolkit for MCU，这是一套完整的工具集，用于在NXP Cortex-M核�
 - MCU测试工程与更新工具
 - 详细的用户指南
 
+[NNCU入门视频]: https://github.com/RockySong/nncu_tool/blob/master/nncu_%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8.mp4
+
 这里包含分割的压缩包，请把它们统一解到**同一个**目录下(**例如都解压到当前目录**)，哪怕它们内部包含相同的文件夹（内容没有交集）。
 
 | file name          | usage                                                        |
