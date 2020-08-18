@@ -1,7 +1,9 @@
 # nncu_tool
 
 提示：
-NNCU最新的版本首先发布于 : https://pan.baidu.com/s/1eQADEHg8UVhTsZWT_lRRgw#list/path=%2F 截至2020.08.18 : 最新版本为 v1.0c。
+NNCU最新的版本首先发布于 : https://pan.baidu.com/s/1eQADEHg8UVhTsZWT_lRRgw
+
+截至2020.08.18 : 最新版本为 v1.0c。
 
 NN toolkit for MCU，这是一套完整的工具集，用于在NXP Cortex-M核器件上部署深度学习模型，有以下特点：
 
